@@ -20,6 +20,8 @@ En la siguiente lista irán apareciendo las actividades desarrolladas:
 
  ## Créditos 
  -------
- **Autor**: Juan Sebastián Peñarreta Solórzano
+
+**Autor**: Juan Sebastián Peñarreta Solórzano
+
  **Periodo Académico**: Octubre 2020 - Febrero 2021
 
