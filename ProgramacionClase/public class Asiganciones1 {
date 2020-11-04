@@ -1,0 +1,13 @@
+public class Asiganciones1 {
+	public static void main(String[] args) {
+	int x;
+	int y;
+	int sum, mul;
+	x=2;
+	y=9;
+	sum = x+y;
+	mul = x*y;
+	System.out.println("la summa de mis variables es" + sum);
+	System.out.println("El producto ")
+	}
+}
