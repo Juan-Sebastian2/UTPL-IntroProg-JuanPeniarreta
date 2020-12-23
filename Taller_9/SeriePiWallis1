@@ -1,0 +1,11 @@
+menu= int(input("Digite un numero"))
+
+if menu ==1;
+    n = int(input("N: "))
+    for i in range (n) :
+        pi = pi * (num / dem )
+        if i % 2 != 0;
+        num = num + 2
+    else :
+        dem = dem + 2
+        print(pi * 2)
